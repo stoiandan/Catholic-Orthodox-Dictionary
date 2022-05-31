@@ -16,5 +16,6 @@ Vocabularul din Biserica Catolică folosește cuvinte de origine latină (oare d
 | euharistie       | cumenicătură/împărtășanie           | - | 
 | arhiepiscop      | mitropolit  | - |
 | dieceză          | episcopie   | termen administrativ | 
+| exercițiu spiritual | asceză   | termen legat de misticism creștin, în lumea catolică, meditație sau contemplare spirituală | 
 | arhidieceza      | arhiepiscopie | termen administrativ |
 | soră/frate      |       -         | persoană consacrată la viața religioasă, diferită de călugăriță/călugăr, în general prin faptul că servește în mod activ o comunitate, nu stă doar la mănăstire|
