@@ -8,7 +8,7 @@ Vocabularul din Biserica Catolică folosește cuvinte de origine latină (oare d
 | Iob              | Iov              |      -      |
 | Paul             | Pavel            | Numele de Paul e originea latină, iar Paul era cetățean Roman (Paulus) |
 | serviciu divin   |  liturghie       | -            |
-| sacrament        | taină            | -            |
+| sacrament        | taină            | grecescul misterion, mister, adevăr care a putut fi pătruns doar prin revelare divină, a nu se înțelege secret  |
 | pasiune          | pătimire         | pătimirile lui Isus |
 |  sacramentul reconcilierii | taina spovedaniei |  - |
 | Lăudat să fie Isus!  | Doamne ajută! | Salut tipic celor două biserici  |
